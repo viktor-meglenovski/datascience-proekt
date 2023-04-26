@@ -1,16 +1,3 @@
----
-jupyter:
-  colab:
-    name: 191001.ipynb
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
 <div class="cell markdown" id="TvkLyUMrjWP6">
 
 # Проектна задача по Вовед во науката за податоци
